@@ -18,6 +18,10 @@ The database in based on a list of Wikipedia : https://en.wikipedia.org/wiki/Lis
 | note         | used Minerva, JAP and Fafnir engines                        |
 
 ---
+Run the server : 
+```
+npm start
+```
 ## <u>Routes</u>
 
 ### There are 4 types of routes :
