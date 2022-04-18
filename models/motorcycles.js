@@ -11,14 +11,6 @@ const motorcyclesSchema = new Schema({
         type: String,
         required: true
     },
-    period: {
-        type: String,
-        required: false
-    },
-    picture: {
-        type: String,
-        required: true
-    },
     note: {
         type: String,
         required: false
